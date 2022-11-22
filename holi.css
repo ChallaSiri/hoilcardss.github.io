@@ -1,0 +1,40 @@
+.bgimg{
+    background-image:url("https://img.freepik.com/free-vector/luxury-gold-background-colorful-mandala_1159-28146.jpg?w=1060&t=st=1669089720~exp=1669090320~hmac=97205b7824acbeb1e2a2946c658e071cf2e103746ef93ebcd83de862202bdf7d");
+    background-size: cover;
+    height:100vh;
+    
+
+
+}
+.firstheading{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    
+    padding-top:180px;
+}
+.holicard{
+    background-color:linear-gradient(transparent,rgba(156, 64, 25, 0.92));
+    height: 80vh;
+}
+.holiphoto{
+    height:120px;
+    width:127px;
+
+}
+.holicardss{
+    background-color: white;
+    width:150px;
+    border-radius: 15px;
+    padding:5px;
+    height:145px;
+    margin:15px;
+    text-align:center;
+    margin-top:30px;
+}
+.holiheading{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:normal;
+}
